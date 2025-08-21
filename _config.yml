@@ -22,7 +22,7 @@ repository               : "surfincj/surfincj.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "bio_pic_crazy_hair"
+  avatar           : "bio_pic_crazy_hair.png"
   name             : "Collin Wardius"
   pronouns         : # example: "she/her"  
   bio              : "graduate student in economics"
