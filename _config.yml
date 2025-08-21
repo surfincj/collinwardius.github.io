@@ -22,13 +22,13 @@ repository               : "surfincj/surfincj.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "bio_pic_crazy_hair"
   name             : "Collin Wardius"
   pronouns         : # example: "she/her"  
   bio              : "graduate student in economics"
   location         : "La Jolla, CA"
   employer         : "UC San Diego"
-  uri              : # URL
+  uri              : "https://www.dropbox.com/scl/fi/wvtpwv551m36qcfhhpzem/Collin_Wardius_cv.pdf?rlkey=7um2gux31rf0mddeks8739x3i&e=1&dl=0" # CV URL
   email            : "cwardius@ucsd.edu" 
 
   # Academic websites
